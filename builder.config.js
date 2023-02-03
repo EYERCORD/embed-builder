@@ -8,9 +8,9 @@
 // URL options can override the options below.
 // Options set through the menu can override both.
 options = {
-    username: 'Discord Bot',
+    username: 'Embed Builder Preview',
     avatar: 'https://cdn.discordapp.com/embed/avatars/1.png',
-    verified: false,
+    verified: true,
     noUser: false,
     dataSpecified: false,
     guiTabs: ['author', 'description'],
